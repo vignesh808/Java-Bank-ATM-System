@@ -19,3 +19,10 @@ A console-based ATM application developed using Core Java and Object-Oriented Pr
 1. Clone or download the repository
 2. Open the project in Eclipse or IntelliJ IDEA
 3. Run Main.java
+
+
+## What I Learned
+- How to use HashMap to store and retrieve objects
+- How null checking prevents NullPointerException
+- How to structure a project using multiple classes
+- How Scanner handles user input
